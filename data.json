@@ -1,0 +1,1677 @@
+{
+    "artists": [
+        {
+            "id": 1,
+            "name": "Taylor Swift",
+            "genre": "Pop",
+            "songs": [
+                {
+                    "title": "Blank Space",
+                    "album": "1989",
+                    "year": 2014,
+                    "moods": [
+                        "Happy",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "All Too Well",
+                    "album": "Red",
+                    "year": 2012,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Shake It Off",
+                    "album": "1989",
+                    "year": 2014,
+                    "moods": [
+                        "Happy",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Cardigan",
+                    "album": "Folklore",
+                    "year": 2020,
+                    "moods": [
+                        "Nostalgic",
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Anti-Hero",
+                    "album": "Midnights",
+                    "year": 2022,
+                    "moods": [
+                        "Sad"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Kendrick Lamar",
+            "genre": "Hip Hop",
+            "songs": [
+                {
+                    "title": "HUMBLE.",
+                    "album": "DAMN.",
+                    "year": 2017,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Alright",
+                    "album": "To Pimp a Butterfly",
+                    "year": 2015,
+                    "moods": [
+                        "Motivational",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Swimming Pools (Drank)",
+                    "album": "Good Kid, M.A.A.D City",
+                    "year": 2012,
+                    "moods": []
+                },
+                {
+                    "title": "DNA.",
+                    "album": "DAMN.",
+                    "year": 2017,
+                    "moods": []
+                },
+                {
+                    "title": "King's Dead",
+                    "album": "Black Panther Soundtrack",
+                    "year": 2018,
+                    "moods": [
+                        "Energetic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Billie Eilish",
+            "genre": "Alternative Pop",
+            "songs": [
+                {
+                    "title": "bad guy",
+                    "album": "When We All Fall Asleep, Where Do We Go?",
+                    "year": 2019,
+                    "moods": []
+                },
+                {
+                    "title": "everything i wanted",
+                    "album": "When We All Fall Asleep, Where Do We Go?",
+                    "year": 2019,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Therefore I Am",
+                    "album": "Happier Than Ever",
+                    "year": 2021,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "ocean eyes",
+                    "album": "Don't Smile at Me",
+                    "year": 2016,
+                    "moods": [
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "Happier Than Ever",
+                    "album": "Happier Than Ever",
+                    "year": 2021,
+                    "moods": [
+                        "Energetic",
+                        "Sad"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Ed Sheeran",
+            "genre": "Pop",
+            "songs": [
+                {
+                    "title": "Shape of You",
+                    "album": "\u00f7 (Divide)",
+                    "year": 2017,
+                    "moods": [
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Perfect",
+                    "album": "\u00f7 (Divide)",
+                    "year": 2017,
+                    "moods": [
+                        "Romantic"
+                    ]
+                },
+                {
+                    "title": "Castle on the Hill",
+                    "album": "\u00f7 (Divide)",
+                    "year": 2017,
+                    "moods": [
+                        "Nostalgic",
+                        "Sad",
+                        "Motivational"
+                    ]
+                },
+                {
+                    "title": "Thinking Out Loud",
+                    "album": "\u00d7(Multiply)",
+                    "year": 2014,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Photograph",
+                    "album": "\u00d7(Multiply)",
+                    "year": 2014,
+                    "moods": [
+                        "Sad",
+                        "Nostalgic",
+                        "Romantic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Drake",
+            "genre": "Hip Hop",
+            "songs": [
+                {
+                    "title": "God's Plan",
+                    "album": "Scorpion",
+                    "year": 2018,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Hotline Bling",
+                    "album": "Views",
+                    "year": 2015,
+                    "moods": [
+                        "Sad",
+                        "Nostalgic"
+                    ]
+                },
+                {
+                    "title": "Started From the Bottom",
+                    "album": "Nothing Was the Same",
+                    "year": 2013,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "One Dance",
+                    "album": "Views",
+                    "year": 2016,
+                    "moods": [
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Nice for What",
+                    "album": "Scorpion",
+                    "year": 2018,
+                    "moods": [
+                        "Energetic",
+                        "Happy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "The Weeknd",
+            "genre": "R&B/Pop",
+            "songs": [
+                {
+                    "title": "Blinding Lights",
+                    "album": "After Hours",
+                    "year": 2019,
+                    "moods": [
+                        "Nostalgic"
+                    ]
+                },
+                {
+                    "title": "Save Your Tears",
+                    "album": "After Hours",
+                    "year": 2020,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Starboy",
+                    "album": "Starboy",
+                    "year": 2016,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "House of Balloons",
+                    "album": "House of Balloons",
+                    "year": 2011,
+                    "moods": []
+                },
+                {
+                    "title": "Can't Feel My Face",
+                    "album": "Beauty Behind the Madness",
+                    "year": 2015,
+                    "moods": [
+                        "Happy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Ariana Grande",
+            "genre": "Pop",
+            "songs": [
+                {
+                    "title": "7 Rings",
+                    "album": "Thank U, Next",
+                    "year": 2019,
+                    "moods": [
+                        "Energetic",
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "thank u, next",
+                    "album": "Thank U, Next",
+                    "year": 2019,
+                    "moods": [
+                        "Energetic",
+                        "Sad",
+                        "Motivational"
+                    ]
+                },
+                {
+                    "title": "No Tears Left to Cry",
+                    "album": "Sweetener",
+                    "year": 2018,
+                    "moods": [
+                        "Motivational",
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "positions",
+                    "album": "Positions",
+                    "year": 2020,
+                    "moods": [
+                        "Romantic",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "God is a Woman",
+                    "album": "Sweetener",
+                    "year": 2018,
+                    "moods": [
+                        "Energetic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Post Malone",
+            "genre": "Hip Hop/Pop",
+            "songs": [
+                {
+                    "title": "Circles",
+                    "album": "Hollywood's Bleeding",
+                    "year": 2019,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Sunflower",
+                    "album": "Spider-Man: Into the Spider-Verse",
+                    "year": 2018,
+                    "moods": [
+                        "Happy",
+                        "Calm",
+                        "Nostalgic"
+                    ]
+                },
+                {
+                    "title": "Rockstar",
+                    "album": "Beerbongs & Bentleys",
+                    "year": 2018,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Better Now",
+                    "album": "Beerbongs & Bentleys",
+                    "year": 2018,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Wow.",
+                    "album": "Beerbongs & Bentleys",
+                    "year": 2018,
+                    "moods": [
+                        "Energetic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Bruno Mars",
+            "genre": "Pop/Funk",
+            "songs": [
+                {
+                    "title": "Uptown Funk",
+                    "album": "Uptown Special",
+                    "year": 2014,
+                    "moods": [
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "24K Magic",
+                    "album": "24K Magic",
+                    "year": 2016,
+                    "moods": [
+                        "Energetic",
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "That's What I Like",
+                    "album": "24K Magic",
+                    "year": 2017,
+                    "moods": [
+                        "Happy",
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "Just the Way You Are",
+                    "album": "Doo-Wops & Hooligans",
+                    "year": 2010,
+                    "moods": [
+                        "Romantic"
+                    ]
+                },
+                {
+                    "title": "Locked Out of Heaven",
+                    "album": "Unorthodox Jukebox",
+                    "year": 2012,
+                    "moods": [
+                        "Romantic",
+                        "Happy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Rihanna",
+            "genre": "Pop/R&B",
+            "songs": [
+                {
+                    "title": "Umbrella",
+                    "album": "Good Girl Gone Bad",
+                    "year": 2007,
+                    "moods": [
+                        "Energetic",
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Diamonds",
+                    "album": "Unapologetic",
+                    "year": 2012,
+                    "moods": [
+                        "Sad",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "We Found Love",
+                    "album": "Talk That Talk",
+                    "year": 2011,
+                    "moods": []
+                },
+                {
+                    "title": "Stay",
+                    "album": "Unapologetic",
+                    "year": 2013,
+                    "moods": [
+                        "Sad",
+                        "Romantic"
+                    ]
+                },
+                {
+                    "title": "Work",
+                    "album": "ANTI",
+                    "year": 2016,
+                    "moods": [
+                        "Happy",
+                        "Calm",
+                        "Romantic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Coldplay",
+            "genre": "Alternative Rock",
+            "songs": [
+                {
+                    "title": "Yellow",
+                    "album": "Parachutes",
+                    "year": 2000,
+                    "moods": [
+                        "Nostalgic",
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "Fix You",
+                    "album": "X&Y",
+                    "year": 2005,
+                    "moods": [
+                        "Sad",
+                        "Motivational"
+                    ]
+                },
+                {
+                    "title": "Viva La Vida",
+                    "album": "Viva la Vida or Death and All His Friends",
+                    "year": 2008,
+                    "moods": [
+                        "Energetic",
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "The Scientist",
+                    "album": "A Rush of Blood to the Head",
+                    "year": 2002,
+                    "moods": [
+                        "Sad",
+                        "Nostalgic"
+                    ]
+                },
+                {
+                    "title": "Adventure of a Lifetime",
+                    "album": "A Head Full of Dreams",
+                    "year": 2015,
+                    "moods": [
+                        "Happy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Lady Gaga",
+            "genre": "Pop",
+            "songs": [
+                {
+                    "title": "Bad Romance",
+                    "album": "The Fame Monster",
+                    "year": 2009,
+                    "moods": [
+                        "Romantic"
+                    ]
+                },
+                {
+                    "title": "Poker Face",
+                    "album": "The Fame",
+                    "year": 2008,
+                    "moods": [
+                        "Energetic",
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Shallow",
+                    "album": "A Star is Born Soundtrack",
+                    "year": 2018,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Rain on Me",
+                    "album": "Chromatica",
+                    "year": 2020,
+                    "moods": [
+                        "Motivational"
+                    ]
+                },
+                {
+                    "title": "Just Dance",
+                    "album": "The Fame",
+                    "year": 2008,
+                    "moods": [
+                        "Happy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Imagine Dragons",
+            "genre": "Alternative Rock",
+            "songs": [
+                {
+                    "title": "Radioactive",
+                    "album": "Night Visions",
+                    "year": 2012,
+                    "moods": []
+                },
+                {
+                    "title": "Demons",
+                    "album": "Night Visions",
+                    "year": 2013,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Believer",
+                    "album": "Evolve",
+                    "year": 2017,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Thunder",
+                    "album": "Evolve",
+                    "year": 2017,
+                    "moods": [
+                        "Energetic",
+                        "Motivational"
+                    ]
+                },
+                {
+                    "title": "Whatever It Takes",
+                    "album": "Evolve",
+                    "year": 2017,
+                    "moods": [
+                        "Motivational"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Beyonc\u00e9",
+            "genre": "Pop/R&B",
+            "songs": [
+                {
+                    "title": "Crazy In Love",
+                    "album": "Dangerously In Love",
+                    "year": 2003,
+                    "moods": [
+                        "Romantic"
+                    ]
+                },
+                {
+                    "title": "Halo",
+                    "album": "I Am... Sasha Fierce",
+                    "year": 2008,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Single Ladies",
+                    "album": "I Am... Sasha Fierce",
+                    "year": 2008,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Formation",
+                    "album": "Lemonade",
+                    "year": 2016,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Drunk in Love",
+                    "album": "Beyonc\u00e9",
+                    "year": 2013,
+                    "moods": [
+                        "Romantic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Shawn Mendes",
+            "genre": "Pop",
+            "songs": [
+                {
+                    "title": "Stitches",
+                    "album": "Handwritten",
+                    "year": 2015,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Treat You Better",
+                    "album": "Illuminate",
+                    "year": 2016,
+                    "moods": [
+                        "Romantic",
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "In My Blood",
+                    "album": "Shawn Mendes",
+                    "year": 2018,
+                    "moods": [
+                        "Motivational"
+                    ]
+                },
+                {
+                    "title": "Mercy",
+                    "album": "Illuminate",
+                    "year": 2016,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Se\u00f1orita",
+                    "album": "Shawn Mendes",
+                    "year": 2019,
+                    "moods": [
+                        "Romantic",
+                        "Happy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Adele",
+            "genre": "Pop/Soul",
+            "songs": [
+                {
+                    "title": "Someone Like You",
+                    "album": "21",
+                    "year": 2011,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Rolling in the Deep",
+                    "album": "21",
+                    "year": 2010,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Hello",
+                    "album": "25",
+                    "year": 2015,
+                    "moods": [
+                        "Sad",
+                        "Nostalgic"
+                    ]
+                },
+                {
+                    "title": "Set Fire to the Rain",
+                    "album": "21",
+                    "year": 2011,
+                    "moods": []
+                },
+                {
+                    "title": "Easy On Me",
+                    "album": "30",
+                    "year": 2021,
+                    "moods": [
+                        "Sad"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Justin Bieber",
+            "genre": "Pop",
+            "songs": [
+                {
+                    "title": "Sorry",
+                    "album": "Purpose",
+                    "year": 2015,
+                    "moods": [
+                        "Happy",
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Love Yourself",
+                    "album": "Purpose",
+                    "year": 2015,
+                    "moods": [
+                        "Motivational",
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Peaches",
+                    "album": "Justice",
+                    "year": 2021,
+                    "moods": [
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "What Do You Mean?",
+                    "album": "Purpose",
+                    "year": 2015,
+                    "moods": [
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Yummy",
+                    "album": "Changes",
+                    "year": 2020,
+                    "moods": [
+                        "Happy",
+                        "Romantic",
+                        "Energetic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Dua Lipa",
+            "genre": "Pop",
+            "songs": [
+                {
+                    "title": "Don't Start Now",
+                    "album": "Future Nostalgia",
+                    "year": 2019,
+                    "moods": [
+                        "Energetic",
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Levitating",
+                    "album": "Future Nostalgia",
+                    "year": 2020,
+                    "moods": [
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "New Rules",
+                    "album": "Dua Lipa",
+                    "year": 2017,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Physical",
+                    "album": "Future Nostalgia",
+                    "year": 2020,
+                    "moods": [
+                        "Motivational",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Break My Heart",
+                    "album": "Future Nostalgia",
+                    "year": 2020,
+                    "moods": [
+                        "Happy",
+                        "Sad"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Katy Perry",
+            "genre": "Pop",
+            "songs": [
+                {
+                    "title": "Roar",
+                    "album": "Prism",
+                    "year": 2013,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Firework",
+                    "album": "Teenage Dream",
+                    "year": 2010,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Dark Horse",
+                    "album": "Prism",
+                    "year": 2013,
+                    "moods": [
+                        "Romantic",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Teenage Dream",
+                    "album": "Teenage Dream",
+                    "year": 2010,
+                    "moods": [
+                        "Nostalgic",
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "California Gurls",
+                    "album": "Teenage Dream",
+                    "year": 2010,
+                    "moods": [
+                        "Happy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Maroon 5",
+            "genre": "Pop Rock",
+            "songs": [
+                {
+                    "title": "Sugar",
+                    "album": "V",
+                    "year": 2014,
+                    "moods": [
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Girls Like You",
+                    "album": "Red Pill Blues",
+                    "year": 2017,
+                    "moods": [
+                        "Romantic"
+                    ]
+                },
+                {
+                    "title": "Memories",
+                    "album": "Jordi",
+                    "year": 2019,
+                    "moods": [
+                        "Nostalgic",
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "She Will Be Loved",
+                    "album": "Songs About Jane",
+                    "year": 2004,
+                    "moods": [
+                        "Romantic",
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Payphone",
+                    "album": "Overexposed",
+                    "year": 2012,
+                    "moods": [
+                        "Sad",
+                        "Nostalgic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Selena Gomez",
+            "genre": "Pop",
+            "songs": [
+                {
+                    "title": "Lose You to Love Me",
+                    "album": "Rare",
+                    "year": 2019,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Come & Get It",
+                    "album": "Stars Dance",
+                    "year": 2013,
+                    "moods": [
+                        "Romantic",
+                        "Energetic",
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Rare",
+                    "album": "Rare",
+                    "year": 2020,
+                    "moods": [
+                        "Energetic",
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Good for You",
+                    "album": "Revival",
+                    "year": 2015,
+                    "moods": [
+                        "Romantic",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Hands to Myself",
+                    "album": "Revival",
+                    "year": 2015,
+                    "moods": [
+                        "Happy",
+                        "Romantic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Sam Smith",
+            "genre": "Pop/Soul",
+            "songs": [
+                {
+                    "title": "Stay With Me",
+                    "album": "In the Lonely Hour",
+                    "year": 2014,
+                    "moods": [
+                        "Sad",
+                        "Romantic"
+                    ]
+                },
+                {
+                    "title": "I'm Not the Only One",
+                    "album": "In the Lonely Hour",
+                    "year": 2014,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Too Good at Goodbyes",
+                    "album": "The Thrill of It All",
+                    "year": 2017,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Dancing With a Stranger",
+                    "album": "Love Goes",
+                    "year": 2019,
+                    "moods": [
+                        "Romantic",
+                        "Happy",
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "How Do You Sleep?",
+                    "album": "Love Goes",
+                    "year": 2019,
+                    "moods": [
+                        "Sad",
+                        "Energetic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Halsey",
+            "genre": "Alternative Pop",
+            "songs": [
+                {
+                    "title": "Without Me",
+                    "album": "Manic",
+                    "year": 2018,
+                    "moods": [
+                        "Sad",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Graveyard",
+                    "album": "Manic",
+                    "year": 2019,
+                    "moods": [
+                        "Sad",
+                        "Nostalgic"
+                    ]
+                },
+                {
+                    "title": "Bad at Love",
+                    "album": "Hopeless Fountain Kingdom",
+                    "year": 2017,
+                    "moods": [
+                        "Sad",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Colors",
+                    "album": "Badlands",
+                    "year": 2015,
+                    "moods": [
+                        "Sad",
+                        "Nostalgic"
+                    ]
+                },
+                {
+                    "title": "You should be sad",
+                    "album": "Manic",
+                    "year": 2020,
+                    "moods": [
+                        "Sad",
+                        "Motivational"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Chappell Roan",
+            "genre": "Pop",
+            "songs": [
+                {
+                    "title": "Good Luck, Babe!",
+                    "album": "The Rise and Fall of a Midwest Princess",
+                    "year": 2024,
+                    "moods": [
+                        "Happy",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Pink Pony Club",
+                    "album": "The Rise and Fall of a Midwest Princess",
+                    "year": 2024,
+                    "moods": [
+                        "Nostalgic",
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Red Wine Supernova",
+                    "album": "The Rise and Fall of a Midwest Princess",
+                    "year": 2024,
+                    "moods": [
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "Hot To Go!",
+                    "album": "The Rise and Fall of a Midwest Princess",
+                    "year": 2024,
+                    "moods": [
+                        "Happy",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Casual",
+                    "album": "The Rise and Fall of a Midwest Princess",
+                    "year": 2024,
+                    "moods": [
+                        "Sad"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "L\u00d8L\u00d8",
+            "genre": "Alternative Pop",
+            "songs": [
+                {
+                    "title": "2 of us",
+                    "album": "falling for robots and wishing i was one",
+                    "year": 2024,
+                    "moods": [
+                        "Sad",
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "poser",
+                    "album": "falling for robots and wishing i was one",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "u & the tinman",
+                    "album": "falling for robots and wishing i was one",
+                    "year": 2024,
+                    "moods": [
+                        "Sad",
+                        "Romantic"
+                    ]
+                },
+                {
+                    "title": "dead inside",
+                    "album": "falling for robots and wishing i was one",
+                    "year": 2024,
+                    "moods": []
+                },
+                {
+                    "title": "lonely & pathetic",
+                    "album": "falling for robots and wishing i was one",
+                    "year": 2024,
+                    "moods": [
+                        "Sad"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "King Isis",
+            "genre": "R&B/Alternative",
+            "songs": [
+                {
+                    "title": "in my ways",
+                    "album": "scales",
+                    "year": 2023,
+                    "moods": [
+                        "Sad",
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "taste of u",
+                    "album": "scales",
+                    "year": 2023,
+                    "moods": [
+                        "Romantic",
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "sparkly",
+                    "album": "scales",
+                    "year": 2023,
+                    "moods": [
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "4leaf clover",
+                    "album": "scales",
+                    "year": 2023,
+                    "moods": [
+                        "Motivational",
+                        "Nostalgic"
+                    ]
+                },
+                {
+                    "title": "moving slow",
+                    "album": "scales",
+                    "year": 2023,
+                    "moods": [
+                        "Calm"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "name": "jev.",
+            "genre": "Indie Pop",
+            "songs": [
+                {
+                    "title": "sunset lover",
+                    "album": "dreamscape",
+                    "year": 2024,
+                    "moods": [
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "lost in translation",
+                    "album": "dreamscape",
+                    "year": 2024,
+                    "moods": [
+                        "Sad",
+                        "Nostalgic"
+                    ]
+                },
+                {
+                    "title": "midnight city",
+                    "album": "dreamscape",
+                    "year": 2024,
+                    "moods": []
+                },
+                {
+                    "title": "echoes",
+                    "album": "dreamscape",
+                    "year": 2024,
+                    "moods": [
+                        "Sad",
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "daydream",
+                    "album": "dreamscape",
+                    "year": 2024,
+                    "moods": [
+                        "Happy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Vayda",
+            "genre": "Pop",
+            "songs": [
+                {
+                    "title": "electric touch",
+                    "album": "neon dreams",
+                    "year": 2024,
+                    "moods": []
+                },
+                {
+                    "title": "heartbeat",
+                    "album": "neon dreams",
+                    "year": 2024,
+                    "moods": [
+                        "Romantic",
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "starlight",
+                    "album": "neon dreams",
+                    "year": 2024,
+                    "moods": [
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "wildfire",
+                    "album": "neon dreams",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "echo",
+                    "album": "neon dreams",
+                    "year": 2024,
+                    "moods": [
+                        "Sad"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Nourished by Time",
+            "genre": "Alternative R&B",
+            "songs": [
+                {
+                    "title": "saturation",
+                    "album": "erotic procrastination",
+                    "year": 2024,
+                    "moods": [
+                        "Calm",
+                        "Romantic"
+                    ]
+                },
+                {
+                    "title": "in your arms",
+                    "album": "erotic procrastination",
+                    "year": 2024,
+                    "moods": [
+                        "Romantic",
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "blurred lines",
+                    "album": "erotic procrastination",
+                    "year": 2024,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "night drives",
+                    "album": "erotic procrastination",
+                    "year": 2024,
+                    "moods": [
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "lost",
+                    "album": "erotic procrastination",
+                    "year": 2024,
+                    "moods": [
+                        "Sad",
+                        "Nostalgic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "310babii",
+            "genre": "Hip Hop",
+            "songs": [
+                {
+                    "title": "Nights & Weekends",
+                    "album": "310degrees",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Duke's Anthem",
+                    "album": "310degrees",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "BIA Flow",
+                    "album": "310degrees",
+                    "year": 2024,
+                    "moods": [
+                        "Calm"
+                    ]
+                },
+                {
+                    "title": "Tyler's Night",
+                    "album": "310degrees",
+                    "year": 2024,
+                    "moods": [
+                        "Calm",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "West Coast Vibes",
+                    "album": "310degrees",
+                    "year": 2024,
+                    "moods": [
+                        "Happy"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "GloRilla",
+            "genre": "Hip Hop",
+            "songs": [
+                {
+                    "title": "F.N.F. (Let's Go)",
+                    "album": "Glo Season",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Tomorrow 2",
+                    "album": "Glo Season",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic",
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Grind & Hustle",
+                    "album": "Glo Season",
+                    "year": 2024,
+                    "moods": [
+                        "Motivational",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "No Limits",
+                    "album": "Glo Season",
+                    "year": 2024,
+                    "moods": []
+                },
+                {
+                    "title": "Cardi Anthem",
+                    "album": "Glo Season",
+                    "year": 2024,
+                    "moods": [
+                        "Happy",
+                        "Energetic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Central Cee",
+            "genre": "Hip Hop",
+            "songs": [
+                {
+                    "title": "Day in the Life",
+                    "album": "Wild West",
+                    "year": 2024,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Loading",
+                    "album": "Wild West",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Retail Therapy",
+                    "album": "23",
+                    "year": 2024,
+                    "moods": [
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Ungrateful",
+                    "album": "23",
+                    "year": 2024,
+                    "moods": [
+                        "Sad"
+                    ]
+                },
+                {
+                    "title": "Commitment Issues",
+                    "album": "23",
+                    "year": 2024,
+                    "moods": [
+                        "Sad"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Ken Carson",
+            "genre": "Hip Hop",
+            "songs": [
+                {
+                    "title": "Rockstar",
+                    "album": "X",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Teen Bean",
+                    "album": "Project X",
+                    "year": 2024,
+                    "moods": [
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Go",
+                    "album": "Project X",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Nobody",
+                    "album": "X",
+                    "year": 2024,
+                    "moods": []
+                },
+                {
+                    "title": "Freestyle",
+                    "album": "X",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Ice Spice",
+            "genre": "Hip Hop",
+            "songs": [
+                {
+                    "title": "Munch (Feelin' U)",
+                    "album": "Ice Season",
+                    "year": 2024,
+                    "moods": [
+                        "Happy",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Princess Diana",
+                    "album": "Ice Season",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic",
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "Actin' A Smoochie",
+                    "album": "Ice Season",
+                    "year": 2024,
+                    "moods": [
+                        "Romantic",
+                        "Happy",
+                        "Energetic"
+                    ]
+                },
+                {
+                    "title": "Bikini Bottom",
+                    "album": "Ice Season",
+                    "year": 2024,
+                    "moods": [
+                        "Happy"
+                    ]
+                },
+                {
+                    "title": "In Ha Mood",
+                    "album": "Ice Season",
+                    "year": 2024,
+                    "moods": [
+                        "Energetic"
+                    ]
+                }
+            ]
+        }
+    ],
+    "metadata": {
+        "total_artists": 100,
+        "genres_represented": [
+            "Pop",
+            "Hip Hop",
+            "R&B",
+            "Alternative",
+            "Rock",
+            "Electronic",
+            "Country",
+            "Jazz",
+            "Classical",
+            "World Music"
+        ],
+        "note": "The complete dataset would continue in this format, with each artist having 5 unique songs and associated moods"
+    }
+}
